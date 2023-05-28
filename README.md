@@ -1,10 +1,10 @@
-# Base de datos hecha con árboles AVL
+# Database made with AVL trees
 
-"Base de datos" hecha con árboles. Puede hacer respaldos y restaurarlos.
+It can generate backups and restore them.
 
-* Tiene algunos errores con apuntadores
+* Has some errors with pointers (my first pointer program :) )
 
-# Cómo compilar
+# How to compile
 
-1. Escribe `cc avl.c` en tu terminal
-2. Ejecuta el programa así: `./a.out`
+1. Write `cc avl.c` in your terminal
+2. Execute the program: `./a.out`
